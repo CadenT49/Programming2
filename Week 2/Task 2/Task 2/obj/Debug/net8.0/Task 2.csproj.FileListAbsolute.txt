@@ -1,0 +1,14 @@
+H:\2026\Programming 2\Week 2\Task 2\Task 2\bin\Debug\net8.0\Task 2.exe
+H:\2026\Programming 2\Week 2\Task 2\Task 2\bin\Debug\net8.0\Task 2.deps.json
+H:\2026\Programming 2\Week 2\Task 2\Task 2\bin\Debug\net8.0\Task 2.runtimeconfig.json
+H:\2026\Programming 2\Week 2\Task 2\Task 2\bin\Debug\net8.0\Task 2.dll
+H:\2026\Programming 2\Week 2\Task 2\Task 2\bin\Debug\net8.0\Task 2.pdb
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.AssemblyInfoInputs.cache
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.AssemblyInfo.cs
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.csproj.CoreCompileInputs.cache
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.dll
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\refint\Task 2.dll
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.pdb
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\Task 2.genruntimeconfig.cache
+H:\2026\Programming 2\Week 2\Task 2\Task 2\obj\Debug\net8.0\ref\Task 2.dll
