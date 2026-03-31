@@ -1,0 +1,11 @@
+H:\03FormativeAssessment\03FormativeAssessment\bin\Debug\03FormativeAssessment.exe.config
+H:\03FormativeAssessment\03FormativeAssessment\bin\Debug\03FormativeAssessment.exe
+H:\03FormativeAssessment\03FormativeAssessment\bin\Debug\03FormativeAssessment.pdb
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.csproj.AssemblyReference.cache
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\_03FormativeAssessment.Form1.resources
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\_03FormativeAssessment.Properties.Resources.resources
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.csproj.GenerateResource.cache
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.csproj.CoreCompileInputs.cache
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.exe
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.pdb
+H:\03FormativeAssessment\03FormativeAssessment\obj\Debug\03FormativeAssessment.exe.config
